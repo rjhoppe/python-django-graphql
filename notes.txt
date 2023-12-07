@@ -1,0 +1,5 @@
+Source:
+https://www.youtube.com/watch?v=kP7wQoFXUSc&list=PLRfcTs7jiwddt8T8-fzxDD2KwapIjDj20&index=85
+
+Go to this domain locally:
+http://127.0.0.1:8000/graphql 
